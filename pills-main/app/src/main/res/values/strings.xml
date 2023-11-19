@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application12113333333333</string>
+    <string name="title_home">리스트</string>
+    <string name="title_dashboard">캘린더</string>
+    <string name="title_notifications">알람</string>
+    <string name="title_search">약 검색</string>
+</resources>
